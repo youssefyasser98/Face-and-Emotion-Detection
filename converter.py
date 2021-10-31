@@ -2,7 +2,7 @@
 """
 Created on Fri Jun 12 10:58:40 2020
 
-@author: moda9
+@author: youya
 """
 import tensorflow as tf
 import pathlib
