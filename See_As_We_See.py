@@ -2,7 +2,7 @@
 """
 Created on Fri May 29 02:52:52 2020
 
-@author: moda9
+@author: youya
 """
 import os
 from imutils.video import FPS
